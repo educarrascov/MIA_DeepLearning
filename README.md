@@ -10,4 +10,8 @@ Profesor: Juan Bekios.
 ## Contiene los siguientes Notebooks:
 
 1. [Introducción a Python]
+2. [Laboratorio Nº 1]
+3. [Tarea Nº 1]
+4. [Labratorio Nº 2]
+5. [Tarea Nº 2]
  
