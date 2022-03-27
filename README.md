@@ -14,4 +14,5 @@ Profesor: Juan Bekios.
 3. [Tarea Desarrollada Nº 1](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/tarea%20n1-ecarrasco.ipynb)
 4. [Laboratorio Nº 2](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/RedesNeuronales.ipynb)
 5. [Tarea Desarrollada Nº 2](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/Tarea2%20Carrasco.ipynb)
- 
+6. [Laboratorio Nº 3 - Redes Poco Profundas MNIST](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/3_redes_poco_profundas_MNIST.ipynb)
+7. [Laboratorio Nº 3 - Data Augmentation](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/3.3.%20cnn_data_augmentation.ipynb)
