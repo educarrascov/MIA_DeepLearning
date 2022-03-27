@@ -1,6 +1,6 @@
 # MIA_DeepLearning <img src="Script/img/logo.png" align="right" width = "95px"/>
     
-Repositorio creado para el Curso de Deep Learning (Aprendizaje Profundo) en el programa de Magister en Inteligencia Artificial de la Universidad Adolfo Ibáñez.
+Repositorio creado para el Curso de **Deep Learning (Aprendizaje Profundo)** en el programa de Magister en Inteligencia Artificial de la Universidad Adolfo Ibáñez.
 
 Profesor: Juan Bekios.
 
