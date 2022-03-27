@@ -1,4 +1,4 @@
-# MIA_DeepLearning <img src="img/logo.png" align="right" width = "95px"/>
+# MIA_DeepLearning <img src="Script/img/logo.png" align="right" width = "95px"/>
     
 Repositorio creado para el Curso de Deep Learning (Aprendizaje Profundo) en el programa de Magister en Inteligencia Artificial de la Universidad Adolfo Ibáñez.
 
