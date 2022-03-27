@@ -10,7 +10,7 @@ Profesor: Juan Bekios.
 ## Contiene los siguientes Notebooks:
 
 1. [Introducción a Python](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/1.3.%20Laboratorio01_IntroPython_alumno.ipynb)
-2. [Laboratorio Nº 1](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/1_regresion_lineal_profesor_uai-alumno.ipynb)
+2. [Laboratorio Nº 1 - Tensores y Regresión Lineal](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/1_regresion_lineal_profesor_uai-alumno.ipynb)
 3. [Tarea Desarrollada Nº 1](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/tarea%20n1-ecarrasco.ipynb)
 4. [Laboratorio Nº 2](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/RedesNeuronales.ipynb)
 5. [Tarea Desarrollada Nº 2](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/Tarea2%20Carrasco.ipynb)
