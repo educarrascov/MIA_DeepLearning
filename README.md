@@ -3,7 +3,7 @@
 Repositorio creado para el **Curso de Deep Learning (Aprendizaje Profundo)** en el programa de Magister en Inteligencia Artificial de la Universidad Adolfo Ibáñez.
 
 Profesor: Juan Bekios.
-Facultad de Ingeniería y Ciencias
+Facultad de Ingeniería y Ciencias, UAI.
 
 **Eduardo Carrasco Vidal**
  
