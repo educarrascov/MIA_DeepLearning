@@ -18,3 +18,4 @@ Facultad de Ingeniería y Ciencias, UAI.
 6. [Laboratorio Nº 3 - Redes Poco Profundas MNIST.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/3_redes_poco_profundas_MNIST.ipynb)
 7. [Laboratorio Nº 3 - Data Augmentation.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/3.3.%20cnn_data_augmentation.ipynb)
 8. [Laboratorio Nº 4 - Data Augmentation, Transfer Learning y Redes Convolucionales.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/4_cnn_data_augmentation_est-f.ipynb)
+9. [Tarea Desarrollada Nº 3.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/Tarea%20n3%20ecarrascov.ipynb)
