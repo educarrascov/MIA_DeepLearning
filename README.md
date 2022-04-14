@@ -8,17 +8,20 @@ Facultad de Ingeniería y Ciencias, UAI.
 **Eduardo Carrasco Vidal**
  
 ![Python](https://img.shields.io/badge/python-%2314354C.svg)![GitHub](https://img.shields.io/badge/github-%23121011.svg)
-## Contiene los siguientes Notebooks:
+## I. Listado de Laboratorios (Notebook):
 
 1. [Introducción a Python - Uso de Listas/Matrices/Gráficos.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/1.3.%20Laboratorio01_IntroPython_alumno.ipynb)
 2. [Laboratorio Nº 1 - Tensores y Regresión Lineal.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/1_regresion_lineal_profesor_uai-alumno.ipynb)
-3. [Tarea Desarrollada Nº 1.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/Tarea%20n1%20ecarrascov.ipynb)
-4. [Laboratorio Nº 2 - Redes Neuronales Poco Profundas y Algoritmos de Aprendizaje.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/RedesNeuronales.ipynb)
-5. [Tarea Desarrollada Nº 2.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/Tarea%20n2%20ecarrascov.ipynb)
-6. [Laboratorio Nº 3 - Redes Poco Profundas MNIST.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/3_redes_poco_profundas_MNIST.ipynb)
-7. [Laboratorio Nº 3 - Data Augmentation.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/3.3.%20cnn_data_augmentation.ipynb)
-8. [Laboratorio Nº 4 - Data Augmentation, Transfer Learning y Redes Convolucionales.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/4_cnn_data_augmentation_est-f.ipynb)
-9. [Ayudantía RESNET Lab Nº 3 y Nº 4](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/4_Restnet-al.ipynb)
-10. [Tarea Desarrollada Nº 3.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/Tarea%20n3%20ecarrascov.ipynb)
-11. []()
-12. []()
+3. [Laboratorio Nº 2 - Redes Neuronales Poco Profundas y Algoritmos de Aprendizaje.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/RedesNeuronales.ipynb)
+4. [Laboratorio Nº 3.1 - Redes Poco Profundas MNIST.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/3_redes_poco_profundas_MNIST.ipynb)
+5. [Laboratorio Nº 3.2 - Data Augmentation.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/3.3.%20cnn_data_augmentation.ipynb)
+6. [Laboratorio Nº 4 - Data Augmentation, Transfer Learning y Redes Convolucionales.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/4_cnn_data_augmentation_est-f.ipynb)
+7. [Ayudantía RESNET Lab Nº 3 y Nº 4.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/4_Restnet-al.ipynb)
+8. [Laboratorio Nº 5: Redes Neuronales Recurrentes.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/5_1Redes_recurrentes_Alumnos-02.ipynb)
+9. [Laboratorio Nº 6: LBTM (Long Short-Term Memory).](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/5_2_lstmlab_alumnos-entrega.ipynb)
+
+## II. Laboratorios Resueltos:
+
+1. [Tarea Desarrollada Nº 1.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/Tarea%20n1%20ecarrascov.ipynb)
+2. [Tarea Desarrollada Nº 2.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/Tarea%20n2%20ecarrascov.ipynb)
+3. [Tarea Desarrollada Nº 3.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/Tarea%20n3%20ecarrascov.ipynb)
