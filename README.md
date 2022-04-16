@@ -18,7 +18,7 @@ Facultad de Ingeniería y Ciencias, UAI.
 6. [Laboratorio Nº 4 - Data Augmentation, Transfer Learning y Redes Neuronales Convolucionales.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/4_cnn_data_augmentation_est-f.ipynb)
 7. [Laboratorio Nº 3 y Nº 4 - Resnet (Transfer Learning).](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/4_Restnet-al.ipynb)
 8. [Laboratorio Nº 5: Redes Neuronales Recurrentes.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/5_1Redes_recurrentes_Alumnos-02.ipynb)
-9. [Laboratorio Nº 6: LBTM (Long Short-Term Memory).](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/5_2_lstmlab_alumnos-entrega.ipynb)
+9. [Laboratorio Nº 6: LSTM (Long Short-Term Memory).](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/5_2_lstmlab_alumnos-entrega.ipynb)
 
 ## II. Laboratorios Resueltos:
 
