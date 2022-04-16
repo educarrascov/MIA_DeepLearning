@@ -10,7 +10,7 @@ Facultad de Ingeniería y Ciencias, UAI.
 ![Python](https://img.shields.io/badge/python-%2314354C.svg)![GitHub](https://img.shields.io/badge/github-%23121011.svg)
 ## I. Listado de Laboratorios (Notebook):
 
-1. [Introducción a Python - Uso de Listas/Matrices/Gráficos.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/1.3.%20Laboratorio01_IntroPython_alumno.ipynb)
+1. [Introducción a Python - Uso de Listas / Matrices / Gráficos.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/1.3.%20Laboratorio01_IntroPython_alumno.ipynb)
 2. [Laboratorio Nº 1 - Tensores y Regresión Lineal.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/1_regresion_lineal_profesor_uai-alumno.ipynb)
 3. [Laboratorio Nº 2 - Redes Neuronales Poco Profundas y Algoritmos de Aprendizaje.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/RedesNeuronales.ipynb)
 4. [Laboratorio Nº 3.1 - Redes Poco Profundas MNIST.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/3_redes_poco_profundas_MNIST.ipynb)
@@ -24,4 +24,4 @@ Facultad de Ingeniería y Ciencias, UAI.
 
 1. [Tarea Desarrollada Nº 1 - Regresión Lineal](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/Tarea%20n1%20ecarrascov.ipynb)
 2. [Tarea Desarrollada Nº 2 - Redes Neuronales Poco Profundas.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/Tarea%20n2%20ecarrascov.ipynb)
-3. [Tarea Desarrollada Nº 3 - Redes Neuronales Convolucionales y Transfer Learning (VGG16 y Resnet).](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/Tarea%20n3%20ecarrascov.ipynb)
+3. [Tarea Desarrollada Nº 3 - Redes Neuronales Convolucionales y Transfer Learning (VGG-16 y Resnet).](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/Tarea%20n3%20ecarrascov.ipynb)
