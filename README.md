@@ -19,6 +19,9 @@ Facultad de Ingeniería y Ciencias, UAI.
 7. [Laboratorio Nº 3 y Nº 4 - Resnet (Transfer Learning) "Ayudantía".](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/4_Restnet-al.ipynb)
 8. [Laboratorio Nº 5: Redes Neuronales Recurrentes.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/5_1Redes_recurrentes_Alumnos-02.ipynb)
 9. [Laboratorio Nº 6: LSTM (Long Short-Term Memory).](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/5_2_lstmlab_alumnos-entrega.ipynb)
+10. [Laboratorio Nº 7: Autoenconders Simple.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/6.2.%20AUTOENCODERSimple.ipynb)
+11. [Laboratorio Nº 7.2: Autoencoders Convolucionales.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/6.1.%20AUTOENCODERConvolucional.ipynb)
+12. [Laboratorio Nº 8: Laboratorio de Redes Generativas Adversarias (GAN).](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/6.3.%20GAN_class.ipynb)
 
 ## II. Laboratorios Resueltos:
 
@@ -26,3 +29,4 @@ Facultad de Ingeniería y Ciencias, UAI.
 2. [Tarea Desarrollada Nº 2 - Redes Neuronales Poco Profundas.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/Tarea%20n2%20ecarrascov.ipynb)
 3. [Tarea Desarrollada Nº 3 - Redes Neuronales Convolucionales y Transfer Learning (VGG-16 y Resnet).](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/Tarea%20n3%20ecarrascov.ipynb)
 4. [Tarea Desarrollada Nº 4 - Redes Neuronales Long Short-Term Memory (LSTM).](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/Tarea%20n4.2%20ecarrascov.ipynb)
+5. [Tarea Desarrollada Nº 5 - Redes Generativas Adversarias (GAN).]()
