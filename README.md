@@ -19,7 +19,7 @@ Facultad de Ingeniería y Ciencias, UAI.
 7. [Laboratorio Nº 3 y Nº 4 - Resnet (Transfer Learning) "Ayudantía".](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/4_Restnet-al.ipynb)
 8. [Laboratorio Nº 5: Redes Neuronales Recurrentes.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/5_1Redes_recurrentes_Alumnos-02.ipynb)
 9. [Laboratorio Nº 6: LSTM (Long Short-Term Memory).](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/5_2_lstmlab_alumnos-entrega.ipynb)
-10. [Laboratorio Nº 7: Autoenconders Simple.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/6.2.%20AUTOENCODERSimple.ipynb)
+10. [Laboratorio Nº 7.1: Autoenconders Simple.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/6.2.%20AUTOENCODERSimple.ipynb)
 11. [Laboratorio Nº 7.2: Autoencoders Convolucionales.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/6.1.%20AUTOENCODERConvolucional.ipynb)
 12. [Laboratorio Nº 8: Laboratorio de Redes Generativas Adversarias (GAN).](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/6.3.%20GAN_class.ipynb)
 
