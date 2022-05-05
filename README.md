@@ -29,4 +29,4 @@ Facultad de Ingeniería y Ciencias, UAI.
 2. [Tarea Desarrollada Nº 2 - Redes Neuronales Poco Profundas.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/Tarea%20n2%20ecarrascov.ipynb)
 3. [Tarea Desarrollada Nº 3 - Redes Neuronales Convolucionales y Transfer Learning (VGG-16 y Resnet).](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/Tarea%20n3%20ecarrascov.ipynb)
 4. [Tarea Desarrollada Nº 4 - Redes Neuronales Long Short-Term Memory (LSTM).](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/Tarea%20n4.2%20ecarrascov.ipynb)
-5. [Tarea Desarrollada Nº 5 - Redes Generativas Adversarias (GAN).]()
+5. [Tarea Desarrollada Nº 5 - Redes Generativas Adversarias (GAN).](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/Tarea%20n5%20ecarrascov.ipynb)
