@@ -22,7 +22,7 @@ Profesor: Juan Bekios, Facultad de Ingeniería y Ciencias, UAI.
 11. [Laboratorio Nº 7.2: Autoencoders Convolucionales.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/6.1.%20AUTOENCODERConvolucional.ipynb)
 12. [Laboratorio Nº 8: Laboratorio de Redes Generativas Adversarias (GAN).](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/6.3.%20GAN_class.ipynb)
 
-## II. Laboratorios Resueltos:
+## II. Tareas Resueltas:
 
 1. [Tarea Desarrollada Nº 1 - Regresión Lineal](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/Tarea%20n1%20ecarrascov.ipynb)
 2. [Tarea Desarrollada Nº 2 - Redes Neuronales Poco Profundas.](https://github.com/educarrascov/MIA_DeepLearning/blob/main/Script/Tarea%20n2%20ecarrascov.ipynb)
