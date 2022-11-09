@@ -4,6 +4,8 @@ Repositorio creado para el **Curso de Deep Learning (Aprendizaje Profundo)** en 
 
 Profesor: Juan Bekios, Facultad de Ingeniería y Ciencias, UAI.
 
+**Librería principal utilizada: `Pytorch`.**
+
 **Eduardo Carrasco Vidal**
  
 ![Python](https://img.shields.io/badge/python-%2314354C.svg)![GitHub](https://img.shields.io/badge/github-%23121011.svg)
